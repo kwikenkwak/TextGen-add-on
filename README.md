@@ -73,9 +73,7 @@ There are two character combinations which will do something special:
 * **#R#CHARS:WIDTH:SEED#R#**: This allows you to insert randomly generated text into your text which can be very handy if you're trying to create a letter or if you want to have alinea's. To use this, you change the CHARS, WIDTH and SEED in the template to respectively: the total number of characters of generated text, the width of each line in characters and the seed of the text generation.
 
 At the right of the lines there are three buttons: add, remove and ?
-rix builds
 
-Save time with matrix workflo
 * Add: This lets you insert a line somewhere, when clicking this, a pop-up window will show up which will let you select the line where the new line should be inserted and also if it should be inserted after or before that line.
 
 * Remove: This lets you remove a line, when clicking this, a pop-up window will show up, here you can select which line should be removed. Note that you can't remove the last line.
