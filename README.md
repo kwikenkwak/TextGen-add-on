@@ -2,7 +2,7 @@
 
 ---
 
-##Download/Installation
+## Download/Installation
 
 Installation on Linux and MacOS is straightforward, but on Windows you'll need to install a library manually.
 
@@ -19,7 +19,7 @@ Installation on Linux and MacOS is straightforward, but on Windows you'll need t
 5. Restart Blender.
 6. The add-on should be installed and working now, if you're still getting errors please report them.
 
-##Features
+## Features
 
 This add-on's main goal is to make it easy and fast to create text images without having to use external applications. It comes with a bunch of features which allow you to make any kind of text you want:
 
@@ -33,11 +33,11 @@ This add-on's main goal is to make it easy and fast to create text images withou
 
 ---
 
-##Tutorial
+## Tutorial
 
 TUTORIAL VIDEO GOES HERE!
 
-##Properties
+## Properties
 
 This is a description of all properties of the textgen window(**located in the viewport sidebar**) from top to bottom. Please note that some of these properties will be visible or not depending on certain other settings.
 
