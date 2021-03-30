@@ -35,7 +35,7 @@ This add-on's main goal is to make it easy and fast to create text images withou
 
 ## Tutorial
 
-TUTORIAL VIDEO GOES HERE!
+[Tutorial](https://youtu.be/MezRjCmSSsg)
 
 ## Properties
 
